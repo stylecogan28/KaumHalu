@@ -6,8 +6,8 @@
 * reupload izin anjg gua gua cape buat nya!!
 * ini script pribadi gua!!
 */
-const XPTN = '👾 👾'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/mragung23'; // Nama Instagramlu cok
+const XPTN = '👾*KAUM_HALU👾'; // Nama Bot Whatsapp
+const instagram = 'https://instagram.com/Cogan_112'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6289509938750'; // Nomor whatsapplu cok
 const aktif = 'Tergantung jaringan'; // Kapan bot lu aktif
 const groupwa = 'https://chat.whatsapp.com/DTYZirAR5jwH8qfU1gxSeI'; // OFFICIAL GRUP LU 1
@@ -39,7 +39,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:XP Ganss\n' // full name
             + 'ORG:Owner XPTN Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=6289509938750:+62 895-0993-8750\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=6289509938750:+62895-0993-8750\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 //
 const
@@ -161,7 +161,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '.owner'){
-conn.sendMessage(id, 'Owner XP-TN wa.me/+6289655478810' ,MessageType.text);
+conn.sendMessage(id, 'Owner KAUM_HALU wa.me/+6289509938750' ,MessageType.text);
 }
 else if (text == 'Agung'){
 conn.sendMessage(id, 'Aku BOT nya XP-TN' ,MessageType.text);
@@ -230,13 +230,13 @@ else if (text == 'Cuy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == '.frendsowner'){
-conn.sendMessage(id, 'kawan1 iskandar wa.me/+60136670107' ,MessageType.text);
+conn.sendMessage(id, 'kawan1 PutriCans wa.me/+62813-6597-7823' ,MessageType.text);
 }
 else if (text == '.coowner'){
-conn.sendMessage(id, 'kawan2 testing script wa.me/+6282232931618' ,MessageType.text);
+conn.sendMessage(id, 'kawan2 RahellGans wa.me/++62812-8103-5204' ,MessageType.text);
 }
 else if (text == '.groupbot'){
-conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/GDdd0I3WlF5LnMVifmS7rN' ,MessageType.text);
+conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/DTYZirAR5jwH8qfU1gxSeI' ,MessageType.text);
 }
 else if (text == '.tools1'){
 conn.sendMessage(id, ' *Menampilkan Fitur tools1!!!* ' ,MessageType.text);
@@ -1412,28 +1412,28 @@ else if (text == '.foto'){
 conn.sendMessage(id, 'kirim .foto cewek/cowok\n\nContoh: .foto cewek' ,MessageType.text);
 }
 else if (text == '.help'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾 👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾*KAUM_HALU*👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
 }
 else if (text == '.tools1'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾 👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾*KAUM_HALU*👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
 }
 else if (text == '.menu'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾 👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾*KAUM_HALU*👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
 }
 else if (text == '.tool2'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾 👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾*KAUM_HALU*👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
 }
 else if (text == '.tools3'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾 👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾*KAUM_HALU*👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
 }
 else if (text == '.tools4'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾 👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾*KAUM_HALU*👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
 }
 else if (text == '.tools5'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾 👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾*KAUM_HALU*👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
 }
 else if (text == '.tools6'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾 👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾*KAUM_HALU*👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@Cogan_112' ,MessageType.text);
 }
 if (messageType == 'imageMessage')
    {
